@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609846020174",
+    "project_id": "eova11011",
+    "storage_bucket": "eova11011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609846020174:android:6f06d978f37f3435885b1f",
+        "android_client_info": {
+          "package_name": "com.app.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609846020174-t3o6n1q75ql4knp9d36mkbhi9p5vdbk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4hPZ9qaPLcvXmzuO2yUeMeKO1JfPe5ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609846020174-t3o6n1q75ql4knp9d36mkbhi9p5vdbk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
